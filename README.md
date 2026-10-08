@@ -1642,6 +1642,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Artyfile](https://artyfile.com) `https://artyfile.com/api/mcp`
   [![Artyfile MCP connector](https://glama.ai/mcp/connectors/com.artyfile/music-licensing/badges/score.svg)](https://glama.ai/mcp/connectors/com.artyfile/music-licensing)
   🔓 - Search real recorded music, check licence terms and prepare a one-time sync-licence checkout for a track.
+- [AutomationNation YouTube Transcripts](https://apify.com/automationnation/youtube-transcript-scraper) `https://mcp.apify.com/?tools=automationnation/youtube-transcript-scraper`
+  [![AutomationNation YouTube Transcripts MCP connector](https://glama.ai/mcp/connectors/io.github.retracn/youtube-transcripts/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.retracn/youtube-transcripts)
+  🔐 - Timestamped transcripts for any YouTube video, Short, channel or playlist, ready for summaries and RAG.
 - [Azurade AI](https://azurade.com/developers/) `https://azurade.com/mcp`
   [![Azurade AI MCP connector](https://glama.ai/mcp/connectors/com.azurade/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.azurade/mcp)
   🔐 - Generate images and videos with Veo 3.1, Seedance 2.5, Nano Banana Pro and 30+ more models; credits never expire.
