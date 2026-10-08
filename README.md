@@ -2254,6 +2254,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Audiala](https://mcp.audiala.com/) `https://mcp.audiala.com/mcp`
   [![Audiala MCP connector](https://glama.ai/mcp/connectors/com.audiala/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.audiala/mcp)
   🔓 - Narrated audio guides for 45,000+ places in 1,900+ cities in 11 languages, with must-see lists.
+- [AutomationNation Google Flights](https://apify.com/automationnation/google-flights-scraper) `https://mcp.apify.com/?tools=automationnation/google-flights-scraper`
+  [![AutomationNation Google Flights MCP connector](https://glama.ai/mcp/connectors/io.github.retracn/google-flights/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.retracn/google-flights)
+  🔐 - Google Flights fares for any route and date: price, airlines, flight numbers, stops and emissions.
 - [Déstaire](https://destaire.com) `https://destaire.com/mcp`
   [![Déstaire MCP connector](https://glama.ai/mcp/connectors/com.destaire/destaire/badges/score.svg)](https://glama.ai/mcp/connectors/com.destaire/destaire)
   🔓 - A curated guide to exceptional hotels and private stays, with editorial content and city guides.
