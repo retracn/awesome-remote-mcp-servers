@@ -742,6 +742,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [apMZoomAI](https://www.apmzoom.com) `https://www.apmzoom.com/mcp`
   [![apMZoomAI MCP connector](https://glama.ai/mcp/connectors/com.apmzoom.www/dongdaemun/badges/score.svg)](https://glama.ai/mcp/connectors/com.apmzoom.www/dongdaemun)
   🔓 - Search Dongdaemun (Seoul) wholesale fashion items, new arrivals and stalls by building and floor.
+- [AutomationNation Google Shopping](https://apify.com/automationnation/google-shopping-scraper) `https://mcp.apify.com/?tools=automationnation/google-shopping-scraper`
+  [![AutomationNation Google Shopping MCP connector](https://glama.ai/mcp/connectors/io.github.retracn/google-shopping/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.retracn/google-shopping)
+  🔐 - Google Shopping results for any product and country: price, discount, store, rating and review count.
 - [Avahit](https://avahit.com) `https://avahit.com/api/mcp`
   [![Avahit MCP connector](https://glama.ai/mcp/connectors/com.avahit/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/com.avahit/catalog)
   🔓 - Search products from brand stores with prices re-checked daily, find alternatives and read price history.
