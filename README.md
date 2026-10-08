@@ -1427,6 +1427,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AskWatch Google Search Console MCP](https://askwatch.ai/free-tools/google-search-console-mcp) `https://mcp.askwatch.ai/gsc`
   [![AskWatch Google Search Console MCP connector](https://glama.ai/mcp/connectors/ai.askwatch/gsc/badges/score.svg)](https://glama.ai/mcp/connectors/ai.askwatch/gsc)
   🔓 - Read-only Google Search Console: traffic changes, CTR gaps, cannibalization, URL inspection; tools need a free account.
+- [AutomationNation AI Visibility Tracker](https://apify.com/automationnation/ai-visibility-tracker) `https://mcp.apify.com/?tools=automationnation/ai-visibility-tracker`
+  [![AutomationNation AI Visibility Tracker MCP connector](https://glama.ai/mcp/connectors/io.github.retracn/ai-visibility/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.retracn/ai-visibility)
+  🔐 - Checks whether Google AI Overviews, Gemini and Claude mention and cite a brand for your keywords.
 
 - [BanProof](https://banproof.io) `https://banproof.io/mcp`
   [![BanProof MCP connector](https://glama.ai/mcp/connectors/io.banproof/ban-proof-ai/badges/score.svg)](https://glama.ai/mcp/connectors/io.banproof/ban-proof-ai)
